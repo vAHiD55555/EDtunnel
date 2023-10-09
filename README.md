@@ -1,8 +1,8 @@
-# EDtunnel
+# ED.Tunnel
 
 [![⛅ CF Worker](https://github.com/vAHiD55555/EDtunnel/actions/workflows/cf.yml/badge.svg?branch=main)](https://github.com/vAHiD55555/EDtunnel/actions/workflows/cf.yml)
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository for [https://github.com/vAHiD55555/EDtunnel](https://github.com/vAHiD55555/EDtunnel)
 
 Cloudflare pure IP update: [https://t.me/edtunnel](https://t.me/edtunnel)
 
