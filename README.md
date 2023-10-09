@@ -1,8 +1,6 @@
 # EDtunnel
 
-<p align="center">
-  <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="图片描述" style="margin-bottom: -50px;">
-</p>
+[![⛅ CF Worker](https://github.com/vAHiD55555/EDtunnel/actions/workflows/cf.yml/badge.svg?branch=main)](https://github.com/vAHiD55555/EDtunnel/actions/workflows/cf.yml)
 
 GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
 
